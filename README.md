@@ -1,6 +1,6 @@
 # UofG_PGT_RS
 
-[![Codacy Badge]()]()
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a0938ed3acb401dbaad0285dbee292b)](https://www.codacy.com/gh/ArvinZJC/UofG_PGT_RS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/UofG_PGT_RS&amp;utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/UofG_PGT_RS)
 
 This repository contains code written for practising the knowledge gained from the course **Recommender Systems** during the PGT study of MSc Computing Science in UofG. Please note that the code is licensed under [the MIT License](./LICENSE).
